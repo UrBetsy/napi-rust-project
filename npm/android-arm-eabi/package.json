@@ -1,0 +1,18 @@
+{
+  "name": "napi-cargo-rust-learn-project-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "napi-cargo-rust-learn-project.android-arm-eabi.node",
+  "files": [
+    "napi-cargo-rust-learn-project.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
